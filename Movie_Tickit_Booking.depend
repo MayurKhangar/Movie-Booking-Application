@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1386420876 source:e:\c project\movieticketbooking\movie_tickit_booking\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\c project\movieticketbooking\movie_tickit_booking\conio2.h
+	<conio.h>
+	<windows.h>
+
+1668922579 source:e:\c project\movieticketbooking\movie_tickit_booking\main.c
+	<stdio.h>
+	"conio2.h"
+	<stdlib.h>
+	<error.h>
+	<dir.h>
+	"mtb.h"
+
+1668912321 source:e:\c project\movieticketbooking\movie_tickit_booking\mtb.c
+	"conio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mtb.h"
+	<ctype.h>
+
+1668773116 e:\c project\movieticketbooking\movie_tickit_booking\mtb.h
+	<stdio.h>
+	"conio2.h"
+	<time.h>
+
+1386420876 source:e:\himanshu\c project\movieticketbooking\movie_tickit_booking\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386340778 e:\himanshu\c project\movieticketbooking\movie_tickit_booking\conio2.h
+	<conio.h>
+	<windows.h>
+
+1661087553 source:e:\himanshu\c project\movieticketbooking\movie_tickit_booking\main.c
+	<stdio.h>
+	"conio2.h"
+	<stdlib.h>
+	<error.h>
+	<dir.h>
+	"mtb.h"
+
+1663260845 e:\himanshu\c project\movieticketbooking\movie_tickit_booking\mtb.h
+	<stdio.h>
+	"conio2.h"
+	<time.h>
+
+1661260811 source:e:\himanshu\c project\movieticketbooking\movie_tickit_booking\mtb.c
+	"conio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mtb.h"
+	<ctype.h>
+
+1668946462 source:c:\users\mayur\desktop\movie_tickit_booking\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1668946462 c:\users\mayur\desktop\movie_tickit_booking\conio2.h
+	<conio.h>
+	<windows.h>
+
+1668946462 source:c:\users\mayur\desktop\movie_tickit_booking\main.c
+	<stdio.h>
+	"conio2.h"
+	<stdlib.h>
+	<error.h>
+	<dir.h>
+	"mtb.h"
+
+1668946462 c:\users\mayur\desktop\movie_tickit_booking\mtb.h
+	<stdio.h>
+	"conio2.h"
+	<time.h>
+
+1668946462 source:c:\users\mayur\desktop\movie_tickit_booking\mtb.c
+	"conio2.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mtb.h"
+	<ctype.h>
+
